@@ -65,4 +65,3 @@ Includes real-time motor control and buzzer horn using WebSocket.
 
 Made with curiosity & WiFi  
 – Guhan R
-```
