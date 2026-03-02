@@ -2,8 +2,8 @@
 #include <ESP8266WebServer.h>
 #include <WebSocketsServer.h>
 
-const char* ssid = "Redmi";
-const char* password = "9025817747";
+const char* ssid = "YOUR_WIFI_NAME";
+const char* password = "YOUR_PASSWORD";
 
 ESP8266WebServer server(80);
 WebSocketsServer webSocket = WebSocketsServer(81);
